@@ -4,7 +4,7 @@
 
 }
 body{
-    background-image: url("/.vscode/backtemp.jpg");
+    background-image: url("./backtemp.jpg");
     background-repeat: no-repeat;
     background-size:cover;
 }
